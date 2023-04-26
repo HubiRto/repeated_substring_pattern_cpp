@@ -14,7 +14,7 @@ Explanation: It is the substring "ab" twice.
 Input: s = "aba" <br/>
 Output: false
 
-## Przykład 2
+## Przykład 3
 
 Input: s = "abcabcabcabc" <br/>
 Output: true <br/>
